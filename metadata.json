@@ -1,0 +1,6 @@
+{
+  "name": "O Encontro",
+  "description": "Uma Experiência que Vai Transformar Você. Evento promovido pela Igreja Adventista da Alvorada.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
